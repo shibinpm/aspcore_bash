@@ -1,0 +1,12 @@
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\bin\Debug\netcoreapp2.0\WITSMLStore.New_Project.deps.json
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\bin\Debug\netcoreapp2.0\WITSMLStore.New_Project.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\bin\Debug\netcoreapp2.0\WITSMLStore.New_Project.pdb
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\bin\Debug\netcoreapp2.0\WITSMLStore.Common.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\bin\Debug\netcoreapp2.0\WITSMLStore.Common.pdb
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\obj\Debug\netcoreapp2.0\WITSMLStore.New_Project.csprojAssemblyReference.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\obj\Debug\netcoreapp2.0\WITSMLStore.New_Project.csproj.CoreCompileInputs.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\obj\Debug\netcoreapp2.0\WITSMLStore.New_Project.AssemblyInfoInputs.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\obj\Debug\netcoreapp2.0\WITSMLStore.New_Project.AssemblyInfo.cs
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\obj\Debug\netcoreapp2.0\WITSMLStore.New_Project.csproj.CopyComplete
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\obj\Debug\netcoreapp2.0\WITSMLStore.New_Project.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.New_Project\obj\Debug\netcoreapp2.0\WITSMLStore.New_Project.pdb

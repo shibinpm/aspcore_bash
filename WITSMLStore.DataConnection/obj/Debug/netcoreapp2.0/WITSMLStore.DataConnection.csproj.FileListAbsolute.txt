@@ -1,0 +1,6 @@
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.DataConnection\bin\Debug\netcoreapp2.0\WITSMLStore.DataConnection.deps.json
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.DataConnection\bin\Debug\netcoreapp2.0\WITSMLStore.DataConnection.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.DataConnection\obj\Debug\netcoreapp2.0\WITSMLStore.DataConnection.csprojAssemblyReference.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.DataConnection\obj\Debug\netcoreapp2.0\WITSMLStore.DataConnection.csproj.CoreCompileInputs.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.DataConnection\obj\Debug\netcoreapp2.0\WITSMLStore.DataConnection.AssemblyInfoInputs.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLStore.DataConnection\obj\Debug\netcoreapp2.0\WITSMLStore.DataConnection.AssemblyInfo.cs

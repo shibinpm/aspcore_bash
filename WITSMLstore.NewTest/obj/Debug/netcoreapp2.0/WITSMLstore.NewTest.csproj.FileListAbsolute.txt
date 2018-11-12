@@ -1,0 +1,12 @@
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\obj\Debug\netcoreapp2.0\WITSMLstore.NewTest.csprojAssemblyReference.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\obj\Debug\netcoreapp2.0\WITSMLstore.NewTest.csproj.CoreCompileInputs.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\obj\Debug\netcoreapp2.0\WITSMLstore.NewTest.AssemblyInfoInputs.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\obj\Debug\netcoreapp2.0\WITSMLstore.NewTest.AssemblyInfo.cs
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\bin\Debug\netcoreapp2.0\WITSMLstore.NewTest.deps.json
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\bin\Debug\netcoreapp2.0\WITSMLstore.NewTest.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\bin\Debug\netcoreapp2.0\WITSMLstore.NewTest.pdb
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\bin\Debug\netcoreapp2.0\WITSMLStore.Common.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\bin\Debug\netcoreapp2.0\WITSMLStore.Common.pdb
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\obj\Debug\netcoreapp2.0\WITSMLstore.NewTest.csproj.CopyComplete
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\obj\Debug\netcoreapp2.0\WITSMLstore.NewTest.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSMLstore.NewTest\obj\Debug\netcoreapp2.0\WITSMLstore.NewTest.pdb

@@ -1,0 +1,9 @@
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\bin\Debug\netcoreapp2.0\WITSLstore.TestPro.deps.json
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\bin\Debug\netcoreapp2.0\WITSLstore.TestPro.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\obj\Debug\netcoreapp2.0\WITSLstore.TestPro.csprojAssemblyReference.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\obj\Debug\netcoreapp2.0\WITSLstore.TestPro.csproj.CoreCompileInputs.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\obj\Debug\netcoreapp2.0\WITSLstore.TestPro.AssemblyInfoInputs.cache
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\obj\Debug\netcoreapp2.0\WITSLstore.TestPro.AssemblyInfo.cs
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\bin\Debug\netcoreapp2.0\WITSLstore.TestPro.pdb
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\obj\Debug\netcoreapp2.0\WITSLstore.TestPro.dll
+D:\project\WITSMstore\WITSMLStore\WITSMLStore\WITSLstore.TestPro\obj\Debug\netcoreapp2.0\WITSLstore.TestPro.pdb
